@@ -76,9 +76,7 @@ export function EventRegistrationForm() {
   return (
     <div className="min-h-[80vh] bg-gradient-to-br from-orange-50 to-pink-50 flex flex-col items-center justify-center p-4">
       {/* Logo at top center */}
-      <div className="mb-8 bg-transparent">
-        <img src="/images/photokrafft-logo.png" alt="Photokrafft Logo" className="h-16 mx-auto" />
-      </div>
+      
 
       <div className="max-w-6xl w-full bg-white rounded-3xl shadow-2xl overflow-hidden">
         <div className="flex flex-col-reverse lg:flex-row min-h-[500px]">
